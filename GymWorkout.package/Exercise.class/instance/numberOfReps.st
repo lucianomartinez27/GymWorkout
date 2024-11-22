@@ -1,0 +1,4 @@
+accessing
+numberOfReps
+
+	^ reps size

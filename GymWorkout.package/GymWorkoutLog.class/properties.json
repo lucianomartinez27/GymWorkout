@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "GymWorkout-Model",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"exercisesLog",
+		"workout"
+	],
+	"name" : "GymWorkoutLog",
+	"type" : "normal"
+}

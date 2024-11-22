@@ -1,0 +1,4 @@
+attributes
+beDisabled
+
+	disabled := true

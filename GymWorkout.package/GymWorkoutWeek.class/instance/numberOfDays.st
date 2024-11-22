@@ -1,0 +1,3 @@
+accesing
+numberOfDays
+	^ workoutDays size

@@ -1,0 +1,4 @@
+accesing
+numberOfExercises
+
+	^ exercises size.

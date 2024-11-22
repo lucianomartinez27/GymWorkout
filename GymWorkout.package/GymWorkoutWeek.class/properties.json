@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "GymWorkout-Model",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"workoutDays"
+	],
+	"name" : "GymWorkoutWeek",
+	"type" : "normal"
+}

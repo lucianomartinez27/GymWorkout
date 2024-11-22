@@ -1,0 +1,4 @@
+attributes
+beSubmit
+
+	type := 'submit'

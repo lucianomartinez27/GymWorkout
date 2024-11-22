@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "",
+	"super" : "WAComponent",
+	"category" : "GymWorkout-View",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"system",
+		"logs"
+	],
+	"name" : "GymWorkoutView",
+	"type" : "normal"
+}
